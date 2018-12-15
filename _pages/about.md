@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I am a final year undergraduate student in Electrical Engineering at Sharif University of Technology. During my BSc studies I have been conducting research in statistical signal and image processing, machine learning, sparse signal recovery, inverse problems, and computational biology in collabration with Digital Signal Processing Laboratory ([Dr. Massoud Babaie-Zadeh] (http://sharif.edu/~mbzadeh/)), Advanced Communications Research Institute ([Dr. Farokh Marvasti] (http://acri.sharif.ir/resume/marvasti)), and Laboratory for Bioinformatics and Computational Biology ([Dr. Weichuan Yu] (http://www.ece.ust.hk/~eeyu/)).
+
+
+
+
