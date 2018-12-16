@@ -22,4 +22,4 @@ Matrix Completion (MC) is of interest in many applications and practical setting
 One-Bit Compressed Sensing
 ======
 
-Originally proposed by [Boufounos et al](https://ieeexplore.ieee.org/abstract/document/4558487), 
+Originally proposed by [Boufounos and Baraniuk](https://ieeexplore.ieee.org/abstract/document/4558487), One-Bit Compressed Sensing focus on the sparse solution of the underdetermined 
