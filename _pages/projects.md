@@ -27,6 +27,10 @@ Here is a vidoe of Monet painting "Irises By The Pond" at his garden in 1915! (c
 
 [![](http://img.youtube.com/vi/BJE4QUNgaeg/0.jpg)](http://www.youtube.com/watch?v=BJE4QUNgaeg "")
 
+dddd
+
+[ok](http://www.youtube.com/watch?v=BJE4QUNgaeg "")
+
 
 One-Bit Compressed Sensing
 ======
