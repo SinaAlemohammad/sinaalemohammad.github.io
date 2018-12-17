@@ -17,6 +17,12 @@ Publications
 ======
 
 - Esmaeili, S., Kayhan, B., Al-E-Mohammad, S., & Marvasti, F. (2018). Recovering Quantized Data with Missing Information Using Bilinear Factorization and Augmented Lagrangian Method. [arXiv:1810.03222](https://arxiv.org/abs/1810.03222) - Submitted to the ACM Transactions on Intelligent Systems and Technology
+
+Work experience
+======
+* Summer 2018: Research Assistant
+  * Laboratory for Bioinformatics and Computational Biology at Honh Kong University of Science and Technology
+  * Supervisor: Prof. Weichuan Yu
   
 Some Selected Cources
 ======
