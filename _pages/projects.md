@@ -23,6 +23,8 @@ One-Bit Compressed Sensing
 ======
 Originally proposed by [Boufounos and Baraniuk](https://ieeexplore.ieee.org/abstract/document/4558487), one-bit compressed sensing focus on finding sparse solution from the signed linear measurements. Up to now, many algorithms has been proposed for an efficient signal recovery. Most of these methods use $\ell_1$ norm as regularization penalty for sparsity constraint that demand higher sample complexity than the original problem, that is using $\ell_0$, but unfortunately minimizing $\ell_0$ is NP-hard. In this project, I proposed a one-bit compressed sensing recovery algorithm using a smooth measure of the $\ell_0$ norm ($S\ell_0$) that yielded to better results than the previous methods, and I am currently working on its convergence analysis under supervision of [Prof. Arash Amini](http://sharif.ir/~aamini/).
 
+![Algorithm performance for the 3 dimensions signal on the unit sphere](https://github.com/SinaAlemohammad/sinaalemohammad.github.io/raw/master/images/sl0.jpg)
+
 Manifold Clustering for Blind Source Separation
 ======
 
