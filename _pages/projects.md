@@ -28,9 +28,8 @@ Originally proposed by [Boufounos and Baraniuk](https://ieeexplore.ieee.org/abst
 Multi-Spectral Analysis of Paintings 
 ======
 The recent advances in the image data acquisition technology has helped us to digitalizes the cultural heritages. This vast storages of images have gained the attention of the scholars in the image processing to use computational methods to analyze the artworks. In that event, IEEE signal processing magazine has published 3 special issue regarding this problem so far. I am currently working under supervision of [Prof. Arash Amini](http://sharif.ir/~aamini/) at Sharif University of Technology on an interesting problem in the multi-spectral analysis of paintings as my B.Sc. thesis. We have been provided with the multi-spectral and high-resolution images of Claude Monet’s paintings by the [Lumiere Technology](http://www.lumiere-technology.com/index.htm) . Followed by our analysis on the methods Monet has used in his paintings as an impressionist artist, we have the goal of finding the colors Monet has used in his paintings, that is known to be limited, by sparse non-negative matrix factorization of the spectrum of the image pixels. 
-<center>
+
 [![](http://img.youtube.com/vi/BJE4QUNgaeg/0.jpg)](http://www.youtube.com/watch?v=BJE4QUNgaeg "")
-</center>
 
 
 
