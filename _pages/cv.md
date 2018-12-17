@@ -21,10 +21,10 @@ Publications
 Work experience
 ======
 * Summer 2018: Research Assistant
-  * Laboratory for Bioinformatics and Computational Biology at Honh Kong University of Science and Technology
+  * Laboratory for Bioinformatics and Computational Biology at Hong Kong University of Science and Technology
   * Supervisor: Prof. Weichuan Yu
   
-Some Selected Cources
+Some Selected Courses
 ======
  - Compressed Sensing
  - Digital Image Processing
@@ -37,12 +37,12 @@ Some Selected Cources
  - Signals and systems
  - Digital Signal Processing
  - Linear Algebra 1
- - Engineering Probility and Statistics
+ - Engineering Probability and Statistics
  - Foundations of Programming
   
 Teaching
 ======
-  - Lab Assistant and Coordinatior of Principle EE and Lab - Fall 2018
+  - Lab Assistant and Coordinator of Principle EE and Lab - Fall 2018
   - Teaching Assistant of Neural Nets - Spring 2018 
   - Lab Assistant of Principle EE and Lab - Fall 2017
   - Teaching Assistant of Signals and Systems - Spring 2017
@@ -51,4 +51,5 @@ Computer Skills
 ======
  - Scientific Computation: Matlab, R
  - Programming Language: C, Python
- - Documentation: LATEX, Office(Word, Power point, Excel)
+ - Documentation: LATEX, Office (Word, Power point, Excel)
+
