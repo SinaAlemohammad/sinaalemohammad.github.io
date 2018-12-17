@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Sharif University of Technology, 2014-2019(Expected)
+* B.Sc. in Electrical Engineering, Sharif University of Technology, 2014-2019(Expected)
 
 Publications
 ======
