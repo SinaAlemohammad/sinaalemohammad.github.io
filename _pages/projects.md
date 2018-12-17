@@ -28,4 +28,5 @@ Originally proposed by [Boufounos and Baraniuk](https://ieeexplore.ieee.org/abst
 Manifold Clustering for Blind Source Separation
 ======
 
+Blind Source Separation (BSS) is the problem of separating signals which are mixed through an unknown function from a number of observations, without any information about the mixing model. Although it has been mathematically proven that the separation can be done when the mixture is linear by assuming that sources are independent, there is not any general proof for the separability of nonlinearly mixed signals. However, by assuming that the sources are also spatially sparse, we would be able to separate the sources in the nonlinear mixtures. When the mixture is non-linear, the sources are mapped on non-linear intersecting manifolds, and by clustering each manifold, the source separation is done. I proposed a novel robust unsupervised algorithm for clustering the manifolds as a part of my projects in the Digital Signal Processing Laboratory under supervision of [Prof. Massoud Babaie-Zadeh](http://sharif.edu/~mbzadeh/).
 
