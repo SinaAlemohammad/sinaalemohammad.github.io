@@ -24,6 +24,7 @@ Swimming has been a regular hobby of mine since I was seven years old. I enjoy t
 Nothing compares to the experience and joy one can get from reading a novel, especially a fantasy one! In particular, I am a big fan of J.R.R Tolkien's work
 
 - Music
+
 Listening to music is an inseparable part of my life. Among different music genres, I enjoy post-rock the most. My favorite bands are [Mono](https://www.monoofjapan.com/en/band.php) and [Crows In The Rain](https://crowsintherain.bandcamp.com/). 
 
 
