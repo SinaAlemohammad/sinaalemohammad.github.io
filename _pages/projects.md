@@ -25,7 +25,7 @@ The recent advances in the image data acquisition technology has helped us to di
 
 Here is a vidoe of Monet painting "Irises By The Pond" at his garden in 1915! (click on te image)
 
-[![](http://img.youtube.com/vi/BJE4QUNgaeg/0.jpg)](http://www.youtube.com/watch?v=BJE4QUNgaeg "")
+[![](http://img.youtube.com/vi/BJE4QUNgaeg/0.jpg)](http://www.youtube.com/watch?v=BJE4QUNgaeg"")
 
 dddd
 
