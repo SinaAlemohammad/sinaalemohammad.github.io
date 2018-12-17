@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "personal"
+title: "Personal"
 permalink: /personal/
 author_profile: true
 ---
