@@ -17,7 +17,7 @@ Quantized Matrix Completion
 ======
 Matrix Completion (MC) is of interest in many applications and practical settings. In recent years, theoretical advancements and achievements were reached by many authors in MC and had been utilized in a wide range of application. In this project, I joined two of my colleagues in the Advanced Communications Research Institute at Sharif University of Technology and under the supervision of [Prof. Farokh Marvasti](http://acri.sharif.ir/resume/marvasti) to introduce an algorithm for the recovery of a matrix of quantized data with missing information (Quantized MC), i.e., some entries of a given matrix are not assigned (NA), and the rest take quantized values rather than continuous values. We proposed a regularized non-convex cost function composed of a log-likelihood term and a Trace norm term. The Bi-factorization approach and the Augmented Lagrangian Method (ALM) are applied to find the global minimizer of the cost function to recover the original data.
 
-- Publication : Esmaeili, S., Kayhan, B., Al-E-Mohammad, S., & Marvasti, F. (2018). Recovering Quantized Data with Missing Information Using Bilinear Factorization and Augmented Lagrangian Method. [arXiv:1810.03222](https://arxiv.org/abs/1810.03222) - Submitted to the ACM Transactions on Intelligent Systems and Technology
+- Esmaeili, S., Kayhan, B., Al-E-Mohammad, S., & Marvasti, F. (2018). Recovering Quantized Data with Missing Information Using Bilinear Factorization and Augmented Lagrangian Method. [arXiv:1810.03222](https://arxiv.org/abs/1810.03222) - Submitted to the ACM Transactions on Intelligent Systems and Technology
 
 Multi-Spectral Analysis of Paintings 
 ======
@@ -30,6 +30,8 @@ Here is a vidoe of Monet painting "Irises By The Pond" at his garden in 1915! (c
 One-Bit Compressed Sensing
 ======
 Initially proposed by [Boufounos and Baraniuk](https://ieeexplore.ieee.org/abstract/document/4558487), one-bit compressed sensing focused on finding a sparse solution from the signed linear measurements. Up to now, many algorithms have been proposed for efficient signal recovery. Most of these methods use $\ell_1$ norm as regularization penalty for sparsity constraint that demand higher sample complexity than the original problem, that is using $\ell_0$, but unfortunately minimizing $\ell_0$ is NP-hard. In this project, I proposed a one-bit compressed sensing recovery algorithm using a smooth measure of the $\ell_0$ norm ($S\ell_0$) that yielded to better results than the previous methods, and I am currently working on its convergence analysis under the supervision of [Prof. Arash Amini](http://sharif.ir/~aamini/).
+
+- S. Alemohammad and A. Amini, "One-Bit Compressed Sensing Using Smooth Measure of l0-Norm," SAMPTA 2019, Bordeaux, France, Jul. 2019.
 
 ![Algorithm performance for the 3 dimensions signal on the unit sphere](https://github.com/SinaAlemohammad/sinaalemohammad.github.io/raw/master/images/sl0.jpg)
 
