@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
--MS/PhD in Electrical and Computer Engineering, Sharif University of Technology, in progress
--B.Sc. in Electrical Engineering, Sharif University of Technology, 2014-2019
+- MS/PhD in Electrical and Computer Engineering, Sharif University of Technology, in progress
+- B.Sc. in Electrical Engineering, Sharif University of Technology, 2014-2019
 
 Publications
 ======
