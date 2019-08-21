@@ -11,12 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Electrical Engineering, Sharif University of Technology, 2014-2019(Expected)
+MS/PhD in Electrical and Computer Engineering, Sharif University of Technology, in progress
+B.Sc. in Electrical Engineering, Sharif University of Technology, 2014-2019
 
 Publications
 ======
 
-- Esmaeili, S., Kayhan, B., Al-E-Mohammad, S., & Marvasti, F. (2018). Recovering Quantized Data with Missing Information Using Bilinear Factorization and Augmented Lagrangian Method. [arXiv:1810.03222](https://arxiv.org/abs/1810.03222) - Submitted to the ACM Transactions on Intelligent Systems and Technology
+- Esmaeili, S., Kayhan, B., Al-E-Mohammad, S., & Marvasti, F. (2018). Recovering Quantized Data with Missing Information Using Bilinear Factorization and Augmented Lagrangian Method. [arXiv:1810.03222](https://arxiv.org/abs/1810.03222) - Submitted to the ACM Transactions on Intelligent Systems and Technology.
+- S. Alemohammad and A. Amini, “One-Bit Compressed Sensing Using Smooth Measure of l0-Norm,” SAMPTA 2019, Bordeaux, France, Jul. 2019.
 
 Work experience
 ======
