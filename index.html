@@ -54,7 +54,7 @@
           <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
-    <tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()"  bgcolor="#ffffd0">
+    <tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()">
       <td style="padding:16px;width:20%;vertical-align:middle">
         <div class="one">
             <div class="two" id='alignerf_image'>
@@ -93,7 +93,7 @@
       </td>
     </tr>
 
-        <tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()"  bgcolor="#ffffd0">
+        <tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()">
       <td style="padding:16px;width:20%;vertical-align:middle">
         <div class="one">
             <div class="two" id='alignerf_image'>
@@ -129,6 +129,46 @@
         <p></p>
         <p>
 	We present **SaFARi**, a frame‑agnostic extension of state‑space models that generalizes HiPPO to support any functional basis, enabling flexible and efficient long-range sequence representation. 
+      </td>
+    </tr>
+
+    <tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()"  bgcolor="#ffffd0">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one">
+            <div class="two" id='alignerf_image'>
+              <img src='images/sims.png' width="160"></div>
+            <img src='images/sims.png' width="160">
+          </div>
+        </div>
+        <script type="text/javascript">
+          function bolt3d_start() {
+            document.getElementById('bolt3d_image').style.opacity = "1";
+          }
+
+          function bolt3d_stop() {
+            document.getElementById('bolt3d_image').style.opacity = "0";
+          }
+          bolt3d_stop()
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://szymanowiczs.github.io/bolt3d">
+          <span class="papertitle">Self-improving diffusion models with synthetic data</span>
+        </a>
+        <br>
+	<strong>Sina Alemohammad</strong>,
+	<a href="https://imtiazhumayun.github.io/">Ahmed Imtiaz Humayun</a>,
+	<a href="https://agarwalshruti15.github.io/">Shruti Agarwal</a>,
+	<a href="https://www.surrey.ac.uk/people/john-collomosse">John Collomosse</a>,
+        <a href="https://richb.rice.edu/">Richard Baraniuk</a>
+        <br>
+        <em>arXiv</em>, 2025
+        <br>
+        /
+        <a href="https://arxiv.org/abs/2408.16333">arXiv</a>
+        <p></p>
+        <p>
+	This work introduces SIMS, a novel training framework that uses a model’s own generated synthetic data as negative guidance to improve diffusion model performance while preventing model collapse—or “model autophagy disorder” (MAD). The method outperforms prior approaches by setting new Fréchet Inception Distance (FID) records on CIFAR‑10 and ImageNet‑64, and enables controlled bias adjustments in the synthetic data distribution
       </td>
     </tr>
 
