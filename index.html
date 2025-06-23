@@ -503,6 +503,46 @@
       </td>
     </tr>
 
+    <tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()"  >
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one">
+            <div class="two" id='alignerf_image'>
+              <img src='images/RNTK.png' width="160"></div>
+            <img src='images/RNTK.png' width="160">
+          </div>
+        </div>
+        <script type="text/javascript">
+          function bolt3d_start() {
+            document.getElementById('bolt3d_image').style.opacity = "1";
+          }
+
+          function bolt3d_stop() {
+            document.getElementById('bolt3d_image').style.opacity = "0";
+          }
+          bolt3d_stop()
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://openreview.net/forum?id=3T9iFICe0Y9">
+          <span class="papertitle">The Recurrent Neural Tangent Kernel </span>
+        </a>
+        <br>
+	
+	<strong>Sina Alemohammad</strong>,
+	<a href="https://zichaow.github.io/">Zichao (Jack) Wang</a>,
+	<a href="https://randallbalestriero.github.io/">Randall Balestriero</a>,
+        <a href="https://richb.rice.edu/">Richard Baraniuk</a>
+        <br>
+        <em>ICLR</em>, 2021
+        <br>
+        /
+        <a href="https://arxiv.org/abs/2006.10246">arXiv</a>
+        <p></p>
+        <p>
+	We introduce the Recurrent Neural Tangent Kernel (RNTK), a kernel derived from the infinite-width limit of recurrent neural networks, which captures variable-length sequence inputs and provides improved performance on synthetic and real-world datasets.
+      </td>
+    </tr>
+
 		  
     </table>
   </body>
