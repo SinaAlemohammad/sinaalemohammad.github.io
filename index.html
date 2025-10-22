@@ -68,46 +68,44 @@
 	
 
 
-	<tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()">
-      <td style="padding:16px;width:20%;vertical-align:middle">
-        <div class="one">
-            <div class="two" id='alignerf_image'>
-              <img src='images/walrus.png' width="160"></div>
-            <img src='images/walrus.png' width="160">
-          </div>
-        </div>
-        <script type="text/javascript">
-          function bolt3d_start() {
-            document.getElementById('bolt3d_image').style.opacity = "1";
-          }
-
-          function bolt3d_stop() {
-            document.getElementById('bolt3d_image').style.opacity = "0";
-          }
-          bolt3d_stop()
-        </script>
-      </td>
-      <td style="padding:8px;width:80%;vertical-align:middle">
-        <a href="https://arxiv.org/abs/2505.12161">
-          <span class="papertitle">Neon: Negative Extrapolation From Self-Training Improves Image Generation</span>
-        </a>
-        <br>
-        <strong>Sina Alemohammad</strong>,
-        <a href="https://www.ece.utexas.edu/people/faculty/atlas-wang">Zhangyang Wang</a>,
-        <a href="https://richb.rice.edu/">Richard Baraniuk</a>
-        <br>
-        <em>arXiv</em>, 2025
-        <br>
-        /
-        <a href="https://arxiv.org/abs/2510.03597">arXiv</a>
-        <p></p>
-        <p>
-	We introduce a simple post-hoc method that improves generative models by fine-tuning on synthetic data 
-    and then reversing the degradation direction. Neon achieves state-of-the-art FID of 1.02 
-    on ImageNet-256 with only 0.36% additional compute by exploiting the predictable anti-alignment 
-    between synthetic and population (inifinte) real data gradients caused by mode-seeking samplers. 
-      </td>
-    </tr>
+<tr onmouseout="neon_stop()" onmouseover="neon_start()">
+  <td style="padding:16px;width:20%;vertical-align:middle">
+    <div class="one">
+      <img src='images/neonanimation.gif' width="160">
+    </div>
+    <script type="text/javascript">
+      function neon_start() {
+        // Optional: add any hover effect here if needed
+      }
+      function neon_stop() {
+        // Optional: add any hover effect here if needed
+      }
+      neon_stop()
+    </script>
+  </td>
+  <td style="padding:8px;width:80%;vertical-align:middle">
+    <a href="https://arxiv.org/abs/2510.03597">
+      <span class="papertitle">Neon: Negative Extrapolation From Self-Training Improves Image Generation</span>
+    </a>
+    <br>
+    <strong>Sina Alemohammad</strong>,
+    <a href="https://www.ece.utexas.edu/people/faculty/atlas-wang">Zhangyang Wang</a>,
+    <a href="https://richb.rice.edu/">Richard Baraniuk</a>
+    <br>
+    <em>arXiv</em>, 2025
+    <br>
+    <a href="https://arxiv.org/abs/2510.03597">arXiv</a>
+    /
+    <a href="https://github.com/VITA/Neon">code</a>
+    <p></p>
+    <p>
+We introduce a simple post-hoc method that improves generative models by fine-tuning on synthetic data 
+and then reversing the degradation direction. Neon achieves state-of-the-art FID of 1.02 
+on ImageNet-256 with only 0.36% additional compute by exploiting the predictable anti-alignment 
+between synthetic and population (infinite) real data gradients caused by mode-seeking samplers. 
+    </p>
+  </td>
+</tr>
 			  
     <tr onmouseout="bolt3d_stop()" onmouseover="bolt3d_start()">
       <td style="padding:16px;width:20%;vertical-align:middle">
